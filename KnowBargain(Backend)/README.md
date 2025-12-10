@@ -6,7 +6,7 @@ It provides RESTful APIs for managing deals, users, votes, and comments.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 - **Python 3.11+**
 - **Flask**
 - **Flask SQLAlchemy**
@@ -15,14 +15,14 @@ It provides RESTful APIs for managing deals, users, votes, and comments.
 
 ---
 
-## 🚀 Features
-- 🛒 CRUD APIs for deals
-- 💬 Comments and votes
-- 🔐 JWT-based authentication
-- 📈 Price history tracking
-- 🧾 User management
+## Features
+-  CRUD APIs for deals
+- Comments and votes
+-  JWT-based authentication
+-  Price history tracking
+-  User management
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### Create a Virtual Environment
 ```bash
@@ -51,3 +51,4 @@ The backend will start at : http://127.0.0.1:5000/
 ---
 github link: https://github.com/Masked-peculiarity/KnowBargain
 ---
+
